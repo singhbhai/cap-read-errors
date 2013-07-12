@@ -1,0 +1,34 @@
+README
+*************************
+Preet Singh
+CapRead GenError project
+Last update: July 12th '13, 1:43pm ET. 
+
+Main Files included: InsertError.py --> Genphoneticerror.py --> notquitesoundex.py (A --> B means A references/imports B)
+
+Other files included: InsertError_withbrackets.py --> Genphoneticerror_withbrackets.py
+README (this), input4.txt
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Instructions:
+** Run InsertError.py in whatever dir you have the input file (It's set to look for input4.txt which I've also included - you don't need to include an input file by default - or just change it whatever is your input filename in the first-ish line of the code). 
+
+** It'll ask you for an error rate (say, you give "0.2" here). 
+
+**It'll create an output folder (called "outpoot") with multiple files, giving uniform dist of errors, from most clustered (0 spacing) to least clustered (some maxspacing which varies with size of input file and error rate). 
+
+** And you're done.
+
+!!!** You can also run InsertError_withbrackets.py - this does exactly the same thing as the original, except it adds [] around the errors. This helps see the errors in the output file more clearly.
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+What's done:
+The main error-creating func creates three types of errors at random: a typo, a phonetic error, and a word deletion. 
+(1) typo - changes some random 15% of the letters in the word. So of course it's only applicable to words of length>=7. 
+(2) Phonetic error - some random string with the same phonetic fingerprint as the original word (**This needs to change**).
+(3) word deletion is an empty string. 
+
+What's pending: 
+Reworking (2). 
+Any other comments.  
+
