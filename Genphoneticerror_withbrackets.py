@@ -5,6 +5,7 @@ from random import choice
 import re
 from random import randint
 from random import shuffle
+import math
 
 # gen phonetic error
 zero = ['a', 'e', 'h', 'i', 'o', 'u', 'w', 'y' ]
@@ -38,9 +39,9 @@ def getletter(c):
 def genphonerr(wurd):
 	wurdcode = notquitesoundex(wurd) # the soundex alg's phonetic id looks like this: s0000
 	err = wurdcode[0] # 
-	print 'wurdcode is ', wurdcode 
+	#print 'wurdcode is ', wurdcode 
 	wurdcode = wurdcode[1:] # only the numbers 
-	print 'wurdcode NOW is ', wurdcode 
+	#print 'wurdcode NOW is ', wurdcode 
 
 	for w in wurdcode:
 		err += getletter(w)
@@ -54,12 +55,12 @@ def genemptyword(word):
     	shuffle(word)
 	return ''.join(word)
 """
-def gentypo(word): #if the word length is >=7
+def gentypo(word): 
 	word = list(word)
-	typolimit = int(0.15 * len(word))#num of typos in a single word - let's make it 15% (ref WSL's email)
+	typolimit = int(math.ceil(0.2 * len(word)))#num of typos in a single word - let's make it 20% rounded up(ref WSL's email)
 
 	for i in range(0,typolimit):
-		word[randint(0, len(word)-1)] = choice('abcdefghijklmnopqrstuvwxyz')#substs rndm lttr in word with another lttr at rndm
+		word[randint(0, len(word)-1)] = choice('abcdefghijklmnopqrstuvwxyz ')#substs rndm lttr in word with another lttr at rndm
 	return "["+''.join(word)+"]" #converts the list ver. of word back into a string
 		
 	
@@ -67,11 +68,8 @@ def gentypo(word): #if the word length is >=7
 def gensomerr(word):
 	#matchObj = re.match( r'[a-zA-Z0-9]+[^aeiou]+[^aeiou]+[a-zA-Z0-9]+', word)
 	#if matchObj:
-	if len(word) >=7:	 
-		choyce = choice(['empty', 'phonerr', 'typo'])#
-	else:
-		choyce = choice(['empty', 'phonerr'])
-
+	choyce = choice(['empty', 'phonerr', 'typo'])
+	
 	if choyce=='empty':
 		return genemptyword(word)
 	elif choyce=='phonerr':
@@ -80,6 +78,7 @@ def gensomerr(word):
 		return gentypo(word)
 	else:
 		print 'this is mysterious error in genemptyword()'
+
 
 """def nsyl(word): #ignore this for now, I'm not using this. 
 	return [(list(y for y in x if y[-1].isdigit())) for x in d[word.lower()]]
