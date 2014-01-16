@@ -9,7 +9,7 @@ def notquitesoundex(name):
     # digits holds the soundex values for the alphabet
     digits = '01230120022455012623010202'
     sndx = ''
-    fc = '' #first char
+    fc = ''
 
     # translate alpha chars in name to soundex digits
     for c in name:
@@ -19,8 +19,6 @@ def notquitesoundex(name):
             # duplicate consecutive soundex digits are skipped
             #if not sndx or (d != sndx[-1]):
             sndx += d
-	else: return name # when it's just a num ##FUTURE:create func that subs 'six' for 6, and then runs 'six' as input in this func.
-## maybe have this as a set of funcs for preprocessing inp. ##!!!
 
     # replace first digit with first alpha character
     sndx = fc + sndx[1:]

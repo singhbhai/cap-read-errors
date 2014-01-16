@@ -7,7 +7,7 @@ from random import choice
 from Genphoneticerror_withbrackets import gensomerr
 # future stuff: Chuck all print statements in a logfile; modify for multiple input files; 
 # (optional) create a better garble_word; This is uniform dist of errors - create nonuniform dis of errors
-f = open('input4.txt', 'r') #input file: rename to whatever your input filename is, if you want. 
+f = open('input1.txt', 'r') #input file: rename to whatever your input filename is, if you want. 
 sCon = f.read() #string of the contents - I actually don't need this at all. Didn't work very well.
 lCon = sCon.split() # list of words in file
 lenn = len(lCon) # num of words in file. 

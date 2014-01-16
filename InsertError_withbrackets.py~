@@ -4,7 +4,7 @@ from decimal import *
 import os
 import shutil
 from random import choice
-from Genphoneticerror import gensomerr
+from Genphoneticerror_withbrackets import gensomerr
 # future stuff: Chuck all print statements in a logfile; modify for multiple input files; 
 # (optional) create a better garble_word; This is uniform dist of errors - create nonuniform dis of errors
 f = open('input4.txt', 'r') #input file: rename to whatever your input filename is, if you want. 
@@ -26,7 +26,6 @@ def inserterr(l, spacing, numerr):
 	i = 0
 	changedone = 0
 	while i < len(l):
-		#print 'WURD IZ' , l[i]
 		l[i] = gensomerr(l[i])# this rdmly generates a phonetic error or string of empty spaces. 
 		changedone = changedone + 1 
 		if changedone >= numErrors: #once we reach numErrors, we quit. That's all the errors we want in our text. 

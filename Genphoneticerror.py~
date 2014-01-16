@@ -37,7 +37,7 @@ def getletter(c):
 
 #given a word, generate a phonetically similar error
 def genphonerr(wurd):
-	if wurd.isdigit(): return wurd # just rtn num if num## FUTURE: convert "6" to 'six' and run with that
+	if wurd.isdigit(): return wurd
 	wurdcode = notquitesoundex(wurd) # the soundex alg's phonetic id looks like this: s0000
 	err = wurdcode[0] # 
 	#print 'wurdcode is ', wurdcode 
