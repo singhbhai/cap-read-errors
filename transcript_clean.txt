@@ -1,0 +1,235 @@
+This is FRESH AIR. I'm Terry Gross. Most of what I know about police interrogation comes from crime fiction, TV shows and movies. My guest, writer Douglas Starr, says those interrogations bear little resemblance to the real thing. Starr has written an article in The New Yorker, titled "The Interview: Do Police Interrogation Techniques Produce False Confessions?"
+
+It examines the style of interrogation most widely used by police forces in the U.S., called the Reid technique, named after its founder, John Reid, and considers the criticisms raised by a growing number of scientists and legal scholars who say this approach is based on outdated science and psychology and sometimes produces false confessions.
+
+As part of his research, Starr took a training course in the Reid technique and was also trained in an interrogation technique developed in England as an alternative to Reid. Starr is the author of the 2010 book "The Killer of Little Shepherds: A True Crime Story and the Birth of Forensic Science" and the 1998 book "Blood: An Epic History of Medicine and Commerce. Starr co-directs the program in science journalism at Boston University.
+
+Douglas Starr, welcome back to FRESH AIR. Why did you want to write about interrogation techniques?
+
+I had been doing a series of articles on the problem of science, or the lack of science, in our justice system. And previously I had written about witness fallibility, and the scientist I was talking to then said, you know, what you really need to talk about is this problem of false confessions. And I started looking into the science of that, and the topic grew and grew.
+
+So you actually got trained in a couple of techniques. Let's start with the Reid technique, named after its founder John Reid. Why did you choose to be trained in this particular technique?
+
+The Reid technique has a near monopoly on the training of police in interviewing people. It was created by a former Chicago cop named John Reid in the late '40s. And since the '70s, they've been doing training sessions all over the world. They've trained hundreds of thousands of police, FBI, CIA, foreign intelligence people, private people, and it's really considered the gold standard of interview and interrogation techniques.
+
+And one of the scientists I interviewed in discussing this said, you know, if you really want an insight into what police are learning, this is the place to get trained. So I thought it would be a good idea to sign up for the training.
+
+So let's talk a little bit about the technique. One of the basic premises of the technique is that you want to catch people in their lies and that the hallmark of lying is anxiety, and so you should be looking for signs of anxiety. How do you look for that in this technique?
+
+Yeah, I mean, one of the problems with the technique is it's based on some science that's no longer current. You know, when John Reid was doing this in the 1950s, people thought that you could see anxiety in people's body language - you know, if they folded their arms or hunched over or looked away, they were being anxious - and also that anxiety was a hallmark of lying.
+
+But unfortunately, 40 years of extensive psychological research has shown both of those premises to be untrue. Anxiety has nothing to do with lying. There are many liars who could look you straight in the eye and very calmly lie up a storm. And body language has nothing to do with deception. So the whole technique is based on some faulty premises, which just tend to lead police in the wrong direction.
+
+OK, so elaborate a little on the faulty premises. In this technique, you are looking for signs of anxiety. What are you looking for?
+
+Yeah. Well, you're looking for the typical things that we imagine: folding arms, shifty gaze, picking imaginary lint off your shirt, jiggling your leg, touching your hair. These are signs of anxiety. And I should say they don't only look for the non-verbal cues, they also look for verbal cues like tripping up your story, you know, sounding anxious when you talk.
+
+And what they do is they ask a series of questions that trigger anxiety, and then when you show anxiety, that's confirmation that you're probably lying, and then they begin to hone in on you.
+
+I would think that in some ways innocent people would be more anxious than guilty ones because they don't know what they're doing there, and it is literally like the Alfred Hitchcock movie "The Wrong Man," in which an innocent man is held as a suspect for a crime he did not commit, but he has no way of proving it. And he keeps being seen as guiltier and guiltier as the movie progresses.
+
+Yeah, that's part of the fallacy, that - imagine you're a man accused of killing your wife. You're in a state of grief and shock and horror. And the more they ask you, you're just astonished that they can imagine that you're involved in this. So of course you're going to show anxiety. And there are some very famous cases in which this actually happened, and when this happens, and when you watch the videos, if the videos exist, it's quite shocking.
+
+In the Reid technique that you were trained in, you were taught to try to get a person to confess. What does the technique tell you about how to do that?
+
+Well, there are three stages to the technique. I mean, it has the appearance of being very scientific, at least it used to. One is the fact-finding technique. So you're not just hauling people off the street. There's a reason that you have somebody in the interview chair. And then the first part of the interview is called the behavioral analysis interview, and that's almost like what they do in lie detector tests.
+
+You ask the person a number of questions, and many of the questions are neutral, and then you ask them some loaded questions, like what should they do to the guy who committed this crime. Or you might even use something called the bait, which is, you know, we've collected some DNA from the crime scene. Is there any chance that that could be yours? And then you watch for reactions.
+
+And you watch for these classical signs of anxiety or listen for evasive answers, and you do that for a while. And during this time, maybe a half-hour or so, you're making up your mind whether the person is lying. And then you take a pause, you go into the next room, and if you've decided they're lying, you pick up a file folder from somewhere, and you walk into the room and, standing over the person, you make an accusation.
+
+You say Mr. Smith, we've investigated this extensively, and we've come to the conclusion that you did, in fact, commit this crime. So why don't we sit down and just find a way to work this all out. And then you begin the interrogation part.
+
+But what if the person says no, I'm - honestly, like I didn't do it?
+
+Well by then, that's considered a kind of a denial, and your job is to bat that away because you've already decided that the person is lying. So if the person says I didn't do it, at least at first you say, you know, let's not waste each other's time, let's get to the bottom of this, it'll be easier for everybody if we just talk this through, so let's stop.
+
+Now I should say in defense of Reid, if somebody says I didn't do it and is vociferous for a very long time, and by that I might mean an hour or so, the investigator will often think maybe this guy didn't do it, maybe I was on the wrong track.
+
+The trouble is often the investigator doesn't think that, and there's all sorts of strategies for batting away denials or semi-denials because you are honing in on the fact that this guy is trying to jerk you around.
+
+Then there's something called minimization. Describe what that is.
+
+So what you're doing, when you're batting away denials, you're closing one door and saying you know what, this is just - saying you didn't do it is not going to work. So then you start to minimize the moral consequences of what they did by opening another door. And now you can say look, you know, you're accusing of causing your wife's death. I've got to tell you, my wife - and by the way, I'm taking this from training; I'm not just making this up - my wife and I fight a lot, and the other night we were in such a knock-down, drag-out argument, you know, I didn't know what I was going to do. And if that minute, the phone didn't ring, you know, there but for the grace of God go I, and I could totally understand how this happened.
+
+So what you're doing is you're minimizing the evil that they did. Now you're not doing any legal minimization, that's not touched, but you're lowering the barrier so the person could admit what he did and save a bit of face and dignity.
+
+OK, so what's the track record of this technique in terms of false confessions?
+
+Well, this is very difficult to pin down. The Reid Company says that they have an 80 percent successful confession rate, but it's very difficult to establish ground truth. Do you consider a confession real if a person was convicted? Well, the trouble is if a person confesses and then is convicted, you don't know that that's a false confession.
+
+There's a whole other category of people convicted whose friends might have confessed, and then based on the confessed, the cops go after you. There's a whole category of people who might confess and then go for a plea bargain. So it's very difficult to put your fingers on what is the actual rate.
+
+But there are a few indicators. As you know, the Innocence Project has been freeing people based on DNA, and of the 311 people freed so far, 84 were shown to have confessed falsely. And then there's the confounding variable of, well, how many of these people were trained in the classical Reid technique. That's difficult because most of the way the police interview people is Reid-like, if not Reid in fact.
+
+Why would somebody give a false confession?
+
+You know, you always think that there's no way that you would ever confess falsely to something. But first of all, there's a group of people who confess falsely because there's something wrong with them. You know, more than 200 people confessed to the kidnapping and murder of the Lindbergh baby. Some people just do that. But there are external reasons, as well.
+
+And one is that is that if you're held in a room, and you think that there's no way out, but you're sure that the justice system will eventually exonerate you, you might actually confess just to get out of the situation. And when you're in the situation where the denial is battered away no matter what you say, they're not going to believe me, and they say look - and they start lowering the barrier to confession, like you're not really a bad guy, you stole that money, all right, you were going to give it back, and you needed money for your kid's college books, I know that.
+
+But just, you know, let's just get past this and explain how you stole it. So you see what they're doing? It's lowering that barrier so you - it becomes the easy way out. Interestingly, naive people with faith in the justice system tend to confess more, because they're sure something will work out on the other side.
+
+The trouble is confession trumps everything. I mean, even physical evidence will bend once somebody's confessed because confessions are so compelling.
+
+
+
+This is FRESH AIR. If you're just joining us, my guest is Douglas Starr, and we're talking about his article in the current edition of The New Yorker, which is called "The Interview: Do Police Interrogation Techniques Produce False Confessions?" And Starr is also the co-director of the graduate program in science journalism at Boston University.
+
+When we left off, we were talking about what is known as the Reid interrogation technique, named after its founder John Reid, and you were describing this technique and how it produces a significant number of false confessions. This technique was created in the '40s?
+
+Yeah.
+
+And since then, people have gotten Miranda rights when they're arrested. So how has Miranda affected how people deal with this kind of interrogation?
+
+Only a little. So many of the scientists I interviewed, some examined this in the laboratory, some examined it in the field, some looked at videotapes, I mean they examined the Reid technique a way, you know, a zoologist would examine a species. There's all different branches of science. And one of the scientists examining in the field found that of his survey of hundreds of confessions, 80 percent of the people did not invoke their Miranda rights. They want to seem nice, and it seems like when you say, well, I refuse to talk to you until I get my lawyer, it seems like that's going to, you know, antagonize the police. So people generally don't use that.
+
+Or make you seem guilty, like you have something to hide.
+
+Yeah. You want to seem like - you want to seem like a nice guy when the cops are interrogating you, and this technique depends on that. And I should say I've talked to Reid instructors. They are very pleasant people to talk to. I've seen videotapes of confessions involving Reid instructors. You feel like you're about to confess to a priest or a rabbi. It's not like, you know, Guantanamo. It's gentle persuasion.
+
+Persuading you that you're guilty, or persuading you to give up information?
+
+Well, it could be either, because some of these techniques are used by intelligence services to give information, but where it becomes a problem is if it's persuading you that you're guilty. There is a variety of confession that one of the sociologists found with his colleagues, and they call it persuaded confession. And that is you're interrogating somebody at length, and they're just not going - and by the way, this tends to work better with younger people.
+
+And you finally use the - well, you were drinking, you were having drugs, and you blacked out and didn't know what you were doing. And you might say, you know what, I used to drink a lot, and I would have these blackouts, and I would be horrified at what I thought I did. And I actually saw a young man who was accused of molesting a three-year-old girl who there's no way he did, over the course of two hours of gentle interrogation finally said something like, well, I don't know, I guess it must have happened if you say it did. I mean, I suppose it happened. I don't know what I was doing, but I guess it happened.
+
+And fortunately during a break he was allowed to meet with his sister, you know, and he snapped out of it, and then he said no, I didn't do it. So this is - I found this really alarming to see.
+
+One of the cases that John Reid, who created this interrogation technique, made his reputation on was a case in which somebody was found guilty of murdering his wife. But I was shocked to read at the end of your piece that decades later, that man was found to actually have been not guilty. Tell us a little bit about this case.
+
+Yes, this was an early case. In 1955, a forester in Lincoln, Nebraska, came home to find his wife had been, you know, brutally raped and murdered. And John Reid himself was called in to do the interrogation. And Reid now was, you know, a young ex-cop who was considered at the forefront of his field, and he had been, you know, examining different scientific techniques, in part based on his polygraph training.
+
+And over a period of many hours, he got Parker to admit that he killed his wife, even though Parker didn't. Parker was just stunned. It was a nine-hour interrogation. Reid kept suggesting that his wife was unfaithful, and Parker eventually succumbed to the suggestion.
+
+He never stopped believing in his innocence, and over the years, as of course Reid grew his reputation and grew his company, and the company's reputation grew, Parker kept trying to get his case reversed. He was let out of jail in 1970, based on a retrial and a deal he made with the state of Nebraska, but was not exonerated.
+
+Years later, a career criminal named Wesley Peery, who had briefly been a suspect of the case and was in jail for another murder, wrote a memoir in which he admitted killing Nancy Parker. He gave it to his attorneys, but because of attorney-client privilege, it had to remain confidential. Finally in 1988, when he died, the attorneys released his confession, so to speak. Parker, who by now was out of jail, still applied for a pardon and received a pardon in '91 but not an exoneration.
+
+And finally in 2011, this is just a couple of years ago, the state of Nebraska encountered a false confession scandal and passed a law saying that somebody could sue for, you know, inappropriate conviction, and he sued under that law. And finally in the summer of 2012, the state publicly admitted his mistake and formally exonerated him, who was now in his 80s, and he said, you know, at last I can die in peace.
+
+So that is a long interval to be falsely accused.
+
+What does that say to you about the efficacy of the technique, since one of the cases that the creator of the interrogation technique made his name on was found to be a false confession?
+
+Well, in a sense the technique is very effective because look how long that false confession held up. People are just wired to believe that if you confess to a crime, you must have committed it. And all sorts of alibis and evidence will bend or disappear once you've confessed. It is that convincing.
+
+And part of what we have to do in this discussion is move that off the table and say, you know, people confess, and it may or may not be true. In terms of the efficacy of Reid technique, it gets people to confess, but there's a certain amount of collateral damage.
+
+Probably the vast majority of people who confess to this technique confess correctly, but there is collateral damage, and that is a frightening thing.
+
+How did the Reid technique come to be challenged?
+
+Some psychologists, oh, about 35 years ago, notably one named Saul Kassin, began to look at the question of confessions. Kassin was doing his post-doc research and he was looking at jury trials, and he was trying to find out what causes convictions. And this question of confessions came up.
+
+And at first he treated it as nuisance data because - always with these confessions. But then he noticed if there was a confession involved, it trumped everything. So he started looking at the techniques, and he got the Reid manual, which was - the first edition was written in '62. And he said really this looks like junk psychology. They're making all these assertions. I don't see the research or the quantification.
+
+And he and other scientists began to dissect this technique just as any scientist would dissect any phenomenon he or she was looking at.
+
+Some people even started conducting research into the Reid interrogation technique. And so give us a sense of what some of the research was that called into question some of the Reid technique.
+
+It was really ingenious. I mean, one of the things that was going on was people were - in the field, one scientist embedded himself with various police departments for a long time and watched things happen almost as a naturalist would watch how creatures behave in the field. And he could see what people were doing.
+
+Other scientists did laboratory research. There was a wonderful experiment in Britain called the Who Killed My Relative Experiment. This was done by a man named Aldert Vrij, in which he got videotapes of real cases in which somebody's family member went missing, and the person went on TV to beg for their return.
+
+And he took cases in which the person who was on TV ultimately was found to be the murderer. In other words, these people were lying, and he showed these videos to police and to students. And in these cases he found that the police were no better at detecting lying, and those people who said they were watching for body cues did even worse.
+
+Or in another experiment, Saul Kassin went to a prison to find people who were really good at lying. So he recruited 10 prisoners. He had half describe the crime that they committed, half describe the crime that somebody else committed, and he put those on videotapes, and again it was pretty random as opposed to who you could tell was lying and who wasn't.
+
+And again, then he had people just look at the non-verbal signs versus listening to the audio, and again it showed the non-verbals don't mean anything. So there's been a body of research over the last 40 years taking apart each part of this technique and showing that it has problems.
+
+Douglas Starr will be back in the second half of the show. His article "The Interview: Do Police Interrogation Techniques Produce False Confessions?" is published in the current edition of The New Yorker. I'm Terry Gross, and this is FRESH AIR.
+
+
+
+This is FRESH AIR. I'm Terry Gross back with journalist Douglas Starr. We're talking about his article in the current issue of The New Yorker titled, "The Interview: Do Police Interrogation Techniques Produce False Confessions?" He writes about the interrogation technique most widely used by law enforcement officers in the U.S. It's known as the Reid Technique, named after its founder, John Reid. Starr says a growing number of scientists and legal scholars say the technique is based on outdated science and psychology and can produce false confessions.
+
+So there's an alternate technique that some countries are using that was developed in England...
+
+Yes.
+
+That's called P.E.A.C.E, and that stands for Preparation and Planning, Engage and Explain, Account, Closure, Evaluate. So...
+
+Yes.
+
+What's the basis of this technique?
+
+This is completely different. I mean in the late '80s, Britain had a number of false confession scandals. And they tend to be very practical thing in the home office - about things - and the home office says OK, let's pause and let's come up with something that works. So for two years, they had psychologists, attorneys and police in a very non-defensive way sit down and say OK, let's take this apart and put it back together. And they came up with P.E.A.C.E. And P.E.A.C.E. is an interview technique that more closely resembles what journalists do. It's to gather information, confessions are not sought. Unlike the Reid Technique, the questioner does not try to pal up to the suspect, does not try to say I understand where you're coming from. It's very straightforward. It's very carefully planned out. It's basically based on a different model. And that model is lying and anxiety have nothing to do with each other. And lying and body language have nothing to do with each other. However, lying creates a cognitive load and the more you lie, the more elements you have to juggle. And if you keep going back and asking for more and more details, eventually that system breaks down and that's what P.E.A.C.E. does.
+
+So it tries to, if you're building like an elaborate false scenario, you're not going to be able to keep good track of the details, and this interrogation technique is supposed to catch you in that?
+
+Yes. Yes. And I was trained in both techniques and the difference between the two is pretty striking.
+
+Talk about some of those differences, having been trained in both.
+
+Well, it's really interesting. In Reid, you know, once you get past the fact gathering and the behavioral analysis interview, there's this, to me, there was a kind of "Alice in Looking Glass" feel, like you are, you are going down. And if you deny it this way, I'm going to bat it away, and if you deny it that way, I'm going to bat it away. And I'm going to give you all sorts of options to make it easier for you to confess. P.E.A.C.E. was entirely different. You didn't have this feeling of being funneled; it was very open. It was almost being in one of these self-help treatments. It acknowledged the science of memory. And I remember one of my trainers said something like: memory is a mosaic. Bang, I've dropped it on the floor. And now I have to try to put the pieces back together. It seemed so gentle and understanding. And another one of the trainers was a cop from Newfoundland and seriously, one of the scariest and toughest-looking individuals I've ever met. He was like a life-sized bullet, that's what he was shaped like. Shaved head, cold gray eyes, motionless in a way that you knew he would kill you if you did anything. And I said Todd, does this work? I mean don't you have hard cases? And he just looks at me level, and he says, they use this to interrogate terrorists.
+
+You compare this interrogation technique to journalism. And I think a good example of that is that this technique suggests using open-ended questions. What does that mean?
+
+Well, listen to the way you're talking to me. You're not accusing me of anything. You're not trying to manipulate...
+
+I might by the end of the interview.
+
+
+Just you wait.
+
+You know, you're not trying to manipulate me. You're not giving me multiple choices. You're just asking questions. So what they do in the P.E.A.C.E. technique is they ask very open questions. A real example might be not to say, did you see who killed that guy in the bar last night. You'd start broader. You'd say, tell me what you saw in the bar last night. And they draw these elaborate diagrams that involve circles with data points. I mean it's very difficult. And you're taking notes of things, and then you'll circle back to ask more details about something, maybe for a different point of view.
+
+I may say well, I was in the bar and, you know, my friend Mike came in and next thing I know, he shot this other guy who said his girlfriend was ugly. And you might circle back and you might say, you say your friend Mike came in, what door did he come in? Where were you sitting? Where was the other guy sitting? You might turn the frame of reference. There was a famous case in Britain in which a guy murdered his wife, and he was talking about the fact that she texted him from a train in London when he was home. And it turned out that the cell tower shown that both telephones were at the same place at the same time. And I saw a videotape of this and the police officer said well, David, I'm really struggling with how could tell - how could the both phones be on the train at the same time. You know, and finally the suspect said well, I give up. I'm baffled. I have no way of knowing. You tell me. And when you get enough of these it begins to look pretty obvious that the guy's story is falling apart.
+
+But, you know, memory - at least my memory - is so subject to - what's the word I'm looking for?
+
+It's malleable.
+
+Yeah. It's malleable. Like I was just talking to my oldest friend in the world, and we were trying to piece together our memories of the weekend, you know, of the day John Kennedy was assassinated and the weekend that followed. And we were little girls then. And I remembered us being at her house and she remembered us being at my house. And when she said we were at your house, I thought oh, yeah. I guess we were at my house. I can play that memory either way.
+
+Yeah.
+
+And they both feel right to me.
+
+Yeah.
+
+So if I was being interrogated, like if there was a crime that had happened then and I was being interrogated, I could give you either story that we were at her house or we were at my house.
+
+Yeah. Well, I think there are a couple of things. First of all, memory isn't the only thing; you're also looking for physical evidence. And that's part of the reason the British don't even go for a confession. They think confessions are bogus. They want physical evidence. What the P.E.A.C.E. technique helps you do is find out which part of the story is verifiable and which part isn't. And they take cognizance of the fact. You know, they say these gentle things like when you're interviewing somebody it's, you know, I know it's really hard to access memory. Or they do these exercises, they did exercises with us and they said OK, think back to having breakfast this morning, what did it smell like? What did it look like? OK, now move backwards in time from there. What did you do before that? What did you do before that? So rather than put the person on the defensive, they create an open environment in which the person is more likely to reveal things.
+
+And it was really interesting. During this interview with the murderer I watched with the police superintendent from Britain, the murderer never exhibited any of this kind of lie-associated body language that Reid people teach. He sat there relaxed, you know, his arms down, his knees were not crunched together. And if you had watched the video without hearing the audio, you wouldn't think he was lying. But it was only based on the content and the repeated goof-ups and contradictions that you realize that this was a problem.
+
+So where is the Reid technique being used and where is this newer P.E.A.C.E. technique being used?
+
+Well, the P.E.A.C.E. technique is used in England and Wales, Newfoundland, Denmark and New Zealand, and that's it in terms of a national policy. There are various people in America trying to teach it informally to police departments. One problem we have that the British don't have is the British, all the police reports are the home office, so if they make a decision to change policy, they branch out, train people and there they go. Whereas, we are completely decentralized, it's police department by police department. If you talk to police, some individuals are beginning to embrace P.E.A.C.E.-like techniques, but there's no kind of system-wide approach or am afraid even system-wide discussion.
+
+I think most Americans watch a fair amount of cop shows on TV or see cops and detectives in the movies, and those of us who aren't in the business get an idea from, you know, for fiction, from novels, from TV shows, from movies what an interrogation is like and what kind of interrogations work. You've probably seen and read a lot of...
+
+Yeah.
+
+...crime fiction. So what do you find either most entertaining or most disturbing about how interrogations are depicted?
+
+I think almost all the interrogations you see on TV are quite horrifying. I mean I'm not even going to bring up "24," which endorsed torture, which scientists say does not work; people tell you what you want to hear. But even, you know, you watch some of these "Law and Order" shows and they do the good cop, bad cop thing.
+
+Mm-hmm.
+
+They slam things around. They - I mean not even the Reid people advocate that at all. You would never see a Reid-trained policemen raise his hand to a person. I'll put it this other way; I have never seen a good interrogation on television. And it could be because they're boring, you know, they go on for a while and you're asking people open-ended questions, and then you go back and you say well, you know, Mr. Jones, you said you were not in this town, but here's a parking ticket from this town. Could you explain it? And there's a lot of - even when it gets accusatory, there's open-ended questions and that's a lot less dramatic than slamming something down or getting in a guy's face or hitting him.
+
+So your piece in The New Yorker about interrogation techniques is raising the question, is the technique that is predominantly used in the United States succeeding in getting an alarming number of false confessions? And is it based on science and psychology that's out of date? So is there a national conversation going on within the criminal justice world, about whether this technique really is efficient or not, reliable or not?
+
+Not really. I mean scientists like Saul Kassin and Richard Leo are, and Richard Ofshe, are testifying when possible, and they give talks when possible, hoping to start a national conversation. There are certain police departments. The last time I went to a seminar in this, there was a representative of the Boston Police Department listening quite intently. But there does not seem to be a national conversation of any sort. And that's unfortunate because for every innocent person that's put away, you know, the person that really committed the crime is still on the streets.
+
+There's one man, Juan Rivera, who was found guilty for a rape/stabbing of a babysitter and then was freed years later after 20 years in prison, when DNA showed that the sperm on the dead woman's body wasn't his. He's suing Reid and Associates, the group that developed the first technique that you were describing. Is that unprecedented?
+
+There was another suit in Colorado years ago, but this is the first big one, and he's suing them and also the police who interrogated him. Interestingly, the night of the crime, he was under house arrest with an ankle bracelet on for the theft - the alleged theft - of a car stereo and it showed that he hadn't left his house. But, you know, they got a confession out of him and he spent 20 years of his life in jail.
+
+So say he wins that suit, any idea what the implication of that would be?
+
+I imagine a lot of other attorneys will be looking at similar suits. And again, he's not just suing Reid; there are co-defendants in the suit that names a lot of people. A lot of defense attorneys are looking at this. But again, you know, and I asked Saul Kassin, the scientist, why isn't there a national conversation. And he says he just feels that America has this macho culture in which, you know, we're the good guys and they're the bad guys; and they're scumbags and we're going to get them. And the other sad thing is, on a larger scale, we don't seem to be in a period of thoughtful national discussions, do we?
+
+Hmm.
+
+
+We're kind of in this period of here's what I think and what you think is wrong. And this is an important discussion that we should be having.
+
+Well, I want to thank you so much for talking with us.
+
+Thank you, Terry. It's a pleasure.
+
+Douglas Starr's article "The Interview: Do Police Interrogation Techniques Produce False Confessions?" is in the current issue of The New Yorker. Starr directs, co-directs, the program in science journalism at Boston University.
